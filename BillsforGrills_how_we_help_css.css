@@ -1,0 +1,59 @@
+*{font-family:"Sans-serif", Arial;}
+
+/*commenting out the background image
+/*html {
+  background:url(caddilac.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}*/
+
+h1 {
+	font-size: 75px;
+	font-weight: bold;
+	color: green;
+}
+
+h2 {
+	font-size: 50px;
+	font-weight: bold;
+	color: green;
+}
+body {
+	text-align: center;
+}
+nav ul {
+        background-color: #dddddd;
+        height: 50px;
+        width: 100%;
+        padding: 0px;
+        margin: 0 0 0 0;
+
+}
+nav li {
+	margin-left: 15px;
+	text-align: center;
+	display: inline;
+	font-size: 25px;
+
+	/*float: left;  keeping it centered for now, if i want to left align uncomment this*/
+}
+
+
+}
+footer {
+        width: 100%;
+        background-color:green;
+        color:white;
+        text-align:center;
+        clear: both;
+        padding:5px;
+        display: block;
+        font-size: 25px;
+
+}
+img {
+	width: 1000px;
+}
+
